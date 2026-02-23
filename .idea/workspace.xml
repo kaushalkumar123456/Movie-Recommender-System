@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f71d6228-df81-43ba-b1ec-4ccc807036c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Movie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/movie-recommender-system-tmdb-dataset/model/movie_list.pkl" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/movie-recommender-system-tmdb-dataset/model/similarity.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie-recommender-system-tmdb-dataset" beforeDir="false" afterPath="$PROJECT_DIR$/movie-recommender-system-tmdb-dataset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movie-recommender-system-tmdb-dataset/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/movie-recommender-system-tmdb-dataset/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
