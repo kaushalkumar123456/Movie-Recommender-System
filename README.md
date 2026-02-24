@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🎬 Movie Recommender System
 
 A content-based movie recommendation system that suggests similar movies based on user selection. Built using Machine Learning and Streamlit.
