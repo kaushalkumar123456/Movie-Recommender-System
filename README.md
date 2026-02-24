@@ -77,6 +77,11 @@ movie-recommender-system/
 
 
 
+[Watch Demo](https://github.com/kaushalkumar123456/Movie-Recommender-System/blob/02a1281932213fda5b192bd9b5a6971f3f9b4011/Movie.mp4)
+
+
+
+
 ⚙️ Installation
 Step 1: Clone repository
 
