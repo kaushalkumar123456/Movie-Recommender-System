@@ -3,6 +3,16 @@
 A content-based movie recommendation system that suggests similar movies based on user selection. Built using Machine Learning and Streamlit.
 
 
+![Home](https://github.com/kaushalkumar123456/Movie-Recommender-System/blob/995d6cea66f3875cc54fe89fa4574f5981f9b525/1.png)
+
+
+
+
+
+
+
+
+
 📌 Overview
 
 This project recommends movies similar to a selected movie using content-based filtering. It analyzes movie metadata such as genres, cast, crew, and keywords to compute similarity between movies.
