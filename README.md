@@ -11,6 +11,8 @@ A content-based movie recommendation system that suggests similar movies based o
 ![Home](https://github.com/kaushalkumar123456/Movie-Recommender-System/blob/6df4cc34bb28b5a32dcfa8b1c52e3cde16a89e5e/2.png)
 
 
+![Home](https://github.com/kaushalkumar123456/Movie-Recommender-System/blob/906d971518d86ab40aa5f89b993b16144d62c2ac/3.png)
+
 
 
 
